@@ -1,0 +1,11 @@
+﻿<div>
+    <p>Hello,</p>
+    <p>In this email you can find the auction details for the hospital: <strong style="color:red">{0}</strong>.</p>
+    <p>Auction number: <strong style="color:red">{1}</strong></p>
+    <p>The deadline is: <strong style="color:red">{2}</strong></p>
+    <p>The keywords found for this announcement are: <strong style="color:red">{3}</strong> and the department is: <strong style="color:red">{4}</strong></p> 
+    <p>The size of the files pertaining to this auction is too large to be sent by email. Please find below the path to the folder where the files for this action were sent:</p>
+    <p><strong style="color:red">{5}</strong></p>
+    <p>Sofmedica Auctions Bot</p>
+    <br />
+</div>
